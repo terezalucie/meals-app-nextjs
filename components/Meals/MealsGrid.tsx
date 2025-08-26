@@ -1,4 +1,4 @@
-/* import classes from "./MealsGrid.module.css"
+import classes from "./MealsGrid.module.css"
 import MealItem, { type MealItemProps} from "./MealItem"
 
 type MealsGridProps = {
@@ -13,4 +13,4 @@ export default function MealsGrid ({meals}: MealsGridProps){
             </li>)}
          </ul>
     )
-} */
+} 

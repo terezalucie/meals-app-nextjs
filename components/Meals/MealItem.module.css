@@ -1,4 +1,4 @@
-/* .meal {
+.meal {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -72,4 +72,4 @@
 .actions a:active {
   background: linear-gradient(90deg, #fd4715, #f9b241);
   box-shadow: 0 0 12px rgba(242, 100, 18, 0.8);
-} */
+}

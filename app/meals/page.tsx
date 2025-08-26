@@ -1,4 +1,4 @@
-/* import Link from "next/link"
+import Link from "next/link"
 import classes from "./page.module.css"
 import MealsGrid from "@/components/Meals/MealsGrid"
 
@@ -22,4 +22,4 @@ export default function MealsPage(){
             </main>
         </>
     )
-} */
+} 
