@@ -1,3 +1,4 @@
+
 import classes from "./MealsGrid.module.css"
 import MealItem, { type MealItemProps} from "./MealItem"
 
@@ -14,3 +15,4 @@ export default function MealsGrid ({meals}: MealsGridProps){
          </ul>
     )
 } 
+
